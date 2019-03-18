@@ -23,7 +23,7 @@ export default {
   data () {
     return {
       appTitle: 'Bus-stop crowdsourcing web application'
-    }
+    };
   },
 
   computed: {
